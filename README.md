@@ -24,6 +24,9 @@ npm start
 
 * React
 * React Bootstrap
+* JavaScript
+* HTML
+* CSS
 
 ## Credits
 
